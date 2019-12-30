@@ -37,3 +37,6 @@ amplitude and phase of the harmonics.
 and phase for
 (a) 10 coefficients (b) 30 coefficients (c) 50 coefficients
 see in image file git_example_4
+
+
+Thank you ---  : )
